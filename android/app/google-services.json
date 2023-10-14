@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "329586184915",
+    "project_id": "handbook-uef",
+    "storage_bucket": "handbook-uef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329586184915:android:00b95a205d13da0aaafa26",
+        "android_client_info": {
+          "package_name": "com.handbookuef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329586184915-fkj9fqn4ek5vc2t6f4m7opcova2hsb7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.handbookuef",
+            "certificate_hash": "9b9cc79b84cf3aa37a3a7d35a996076b6322c8f3"
+          }
+        },
+        {
+          "client_id": "329586184915-08v7a83497nommebpdnqdnou304r83g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCobhWEuXlFghROSRX8oUVpqc1TEyt_YUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329586184915-08v7a83497nommebpdnqdnou304r83g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
